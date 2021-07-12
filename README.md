@@ -5,8 +5,8 @@
 - I'm looking to collaborate on projects that will advance my Java/React/Spring knowledge
 - While I'm not coding I enjoy writing songs 🎸, playing video games 🎮, gardening 🌾, and hiking 🌲
 
-### Recent Project (3 person team)
-- <a href="https://trailshub.herokuapp.com/trails">Depolyed App</a> 
+### Recent Project (Trail's Review Site | 3 person team)
+- <a href="https://trailshub.herokuapp.com/trails">Depolyed on Heroku</a> 
 [<img align="left" alt="mjstafford | Heroku Trail Application" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/heroku.svg" />][Heroku]
 - <a href="https://github.com/mjstafford/Trails-Hub">View the Code</a>
 <br/>
